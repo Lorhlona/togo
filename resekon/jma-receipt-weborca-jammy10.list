@@ -1,0 +1,2 @@
+deb [signed-by=/etc/apt/keyrings/jma.asc]    https://ftp.orca.med.or.jp/pub/ubuntu jammy1.0 jma
+deb [signed-by=/etc/apt/keyrings/jma.asc]    https://ftp.orca.med.or.jp/pub/ubuntu jammy-common jma

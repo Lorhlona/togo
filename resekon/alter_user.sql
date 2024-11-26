@@ -1,0 +1,1 @@
+ALTER USER orca WITH PASSWORD 'Syunikiss501';
